@@ -1,0 +1,6 @@
+cfpq_data
+numpy
+pandas
+matplotlib
+seaborn
+ipykernel
